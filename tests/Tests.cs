@@ -4,6 +4,7 @@ using NUnit.Framework;
 
 namespace tests
 {
+	[TestFixture]
     public class Tests
     {
 		[Test]
